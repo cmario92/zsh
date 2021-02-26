@@ -108,6 +108,7 @@ alias Development="cd ~/Development"
 alias fl-mobile="cd ~/Development/FootballLads/fl-mobile"
 alias fl-web="cd ~/Development/FootballLads/fl-web"
 alias fl-service="cd ~/Development/FootballLads/fl-service"
+alias Development="lazygit"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
